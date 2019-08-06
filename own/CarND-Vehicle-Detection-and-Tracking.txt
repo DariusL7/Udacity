@@ -1,0 +1,1 @@
+Geen Udacity starter code in "vehicle_detection.ipynb" nie.
